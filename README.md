@@ -1,5 +1,5 @@
-## Here is my github 🔥
-### Here are some ideas to get you started:
+### Here is my github 🔥
+Here are some ideas to get you started:
 
 - 1️⃣ My name is hackjoong. but I can't use 'hack' on github.
 - 2️⃣ I have a lot of ideas. That's why I'm studying programming.
